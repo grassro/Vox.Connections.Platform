@@ -1,0 +1,9 @@
+C:\TFS\VoxConnections_Core\Platform\Abstraction\bin\Debug\netcoreapp2.0\Vox.Platform.Abstraction.deps.json
+C:\TFS\VoxConnections_Core\Platform\Abstraction\bin\Debug\netcoreapp2.0\Vox.Platform.Abstraction.dll
+C:\TFS\VoxConnections_Core\Platform\Abstraction\bin\Debug\netcoreapp2.0\Vox.Platform.Abstraction.pdb
+C:\TFS\VoxConnections_Core\Platform\Abstraction\obj\Debug\netcoreapp2.0\Abstraction.csprojResolveAssemblyReference.cache
+C:\TFS\VoxConnections_Core\Platform\Abstraction\obj\Debug\netcoreapp2.0\Abstraction.csproj.CoreCompileInputs.cache
+C:\TFS\VoxConnections_Core\Platform\Abstraction\obj\Debug\netcoreapp2.0\Abstraction.AssemblyInfoInputs.cache
+C:\TFS\VoxConnections_Core\Platform\Abstraction\obj\Debug\netcoreapp2.0\Abstraction.AssemblyInfo.cs
+C:\TFS\VoxConnections_Core\Platform\Abstraction\obj\Debug\netcoreapp2.0\Vox.Platform.Abstraction.dll
+C:\TFS\VoxConnections_Core\Platform\Abstraction\obj\Debug\netcoreapp2.0\Vox.Platform.Abstraction.pdb

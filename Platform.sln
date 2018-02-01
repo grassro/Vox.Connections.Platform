@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstraction", "Abstraction\Abstraction.csproj", "{D891F658-28E9-439C-824B-94973E1EACDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{F231EF2F-436B-467D-8C6B-57D48709C1F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D891F658-28E9-439C-824B-94973E1EACDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D891F658-28E9-439C-824B-94973E1EACDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D891F658-28E9-439C-824B-94973E1EACDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D891F658-28E9-439C-824B-94973E1EACDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F231EF2F-436B-467D-8C6B-57D48709C1F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F231EF2F-436B-467D-8C6B-57D48709C1F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F231EF2F-436B-467D-8C6B-57D48709C1F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F231EF2F-436B-467D-8C6B-57D48709C1F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1442F686-F666-46B3-9C88-A62C1EFF4384}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://nineteensoftwares.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Abstraction\\Abstraction.csproj
+		SccProjectName1 = Abstraction
+		SccLocalPath1 = Abstraction
+		SccProjectUniqueName2 = Services\\Services.csproj
+		SccProjectName2 = Services
+		SccLocalPath2 = Services
+	EndGlobalSection
+EndGlobal
