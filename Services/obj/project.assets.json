@@ -13042,11 +13042,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\TFS\\VoxConnections_Core\\Platform\\Services\\Services.csproj",
+      "projectUniqueName": "C:\\Github\\Vox.Connections.Platform\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "C:\\TFS\\VoxConnections_Core\\Platform\\Services\\Services.csproj",
+      "projectPath": "C:\\Github\\Vox.Connections.Platform\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\Rodrigo Campos\\.nuget\\packages\\",
-      "outputPath": "C:\\TFS\\VoxConnections_Core\\Platform\\Services\\obj\\",
+      "outputPath": "C:\\Github\\Vox.Connections.Platform\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

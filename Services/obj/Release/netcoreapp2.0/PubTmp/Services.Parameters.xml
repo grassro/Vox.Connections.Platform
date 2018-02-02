@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="IIS Web Application Name" description="" value="api-email" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\TFS\\VoxConnections_Core\\Platform\\Services\\obj\\Release\\netcoreapp2\.0\\PubTmp\\Out\\$" />
+  <parameter name="IIS Web Application Name" description="" value="vox-services" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Github\\Vox\.Connections\.Platform\\Services\\obj\\Release\\netcoreapp2\.0\\PubTmp\\Out\\$" />
   </parameter>
 </parameters>

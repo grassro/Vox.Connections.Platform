@@ -92,7 +92,8 @@ namespace Services.Controllers
                 telemetry.TrackException(ex, properties, measurements);
 
                 //Retorna Internal Server Error
-                return StatusCode(500);
+                //return StatusCode(500);
+                return BadRequest(ex.Message);
             }
         }
 

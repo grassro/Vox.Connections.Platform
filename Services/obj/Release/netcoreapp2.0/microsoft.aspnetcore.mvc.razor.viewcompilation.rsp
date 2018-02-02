@@ -1,5 +1,5 @@
-C:\TFS\VoxConnections_Core\Platform\Services
+C:\Github\Vox.Connections.Platform\Services
 --output-path=obj\Release\netcoreapp2.0\
 --application-name=Services
---content-root=C:\TFS\VoxConnections_Core\Platform\Services
+--content-root=C:\Github\Vox.Connections.Platform\Services
 --file=

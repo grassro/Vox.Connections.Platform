@@ -9,3 +9,14 @@ C:\TFS\VoxConnections_Core\Platform\Services\obj\Debug\netcoreapp2.0\Services.As
 C:\TFS\VoxConnections_Core\Platform\Services\bin\Debug\netcoreapp2.0\Services.pdb
 C:\TFS\VoxConnections_Core\Platform\Services\obj\Debug\netcoreapp2.0\Services.dll
 C:\TFS\VoxConnections_Core\Platform\Services\obj\Debug\netcoreapp2.0\Services.pdb
+C:\Github\Vox.Connections.Platform\Services\bin\Debug\netcoreapp2.0\Services.deps.json
+C:\Github\Vox.Connections.Platform\Services\bin\Debug\netcoreapp2.0\Services.runtimeconfig.json
+C:\Github\Vox.Connections.Platform\Services\bin\Debug\netcoreapp2.0\Services.runtimeconfig.dev.json
+C:\Github\Vox.Connections.Platform\Services\bin\Debug\netcoreapp2.0\Services.dll
+C:\Github\Vox.Connections.Platform\Services\bin\Debug\netcoreapp2.0\Services.pdb
+C:\Github\Vox.Connections.Platform\Services\obj\Debug\netcoreapp2.0\Services.csprojResolveAssemblyReference.cache
+C:\Github\Vox.Connections.Platform\Services\obj\Debug\netcoreapp2.0\Services.csproj.CoreCompileInputs.cache
+C:\Github\Vox.Connections.Platform\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfoInputs.cache
+C:\Github\Vox.Connections.Platform\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfo.cs
+C:\Github\Vox.Connections.Platform\Services\obj\Debug\netcoreapp2.0\Services.dll
+C:\Github\Vox.Connections.Platform\Services\obj\Debug\netcoreapp2.0\Services.pdb
